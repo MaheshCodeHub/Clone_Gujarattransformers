@@ -1,0 +1,21 @@
+.img1-third {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.img1-third img {
+  width: 250px;
+
+}
+
+.img2-third {
+  display: flex;
+  justify-content: center;
+  margin: 10px 0px;
+}
+
+.img2-third img {
+  width: 500px;
+
+}

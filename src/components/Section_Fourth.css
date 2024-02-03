@@ -1,0 +1,23 @@
+.fourth-img img {
+  width: 500px;
+}
+.fourth-img {
+  display: flex;
+  gap: 10px;
+}
+.fourth-img2 img {
+  width: 500px;
+}
+.fourth-img2 {
+  display: flex;
+  gap: 10px;
+}
+
+.section_fourth {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 50px;
+}

@@ -1,0 +1,13 @@
+.footer-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  background-image: url('../images/footer-bg.jpg');
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  background-size: cover;
+  grid-column-gap: 0;
+  padding: 20px;
+  align-items: center;
+  justify-items: center;
+  height: 35vh;
+}

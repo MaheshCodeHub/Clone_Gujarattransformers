@@ -1,0 +1,32 @@
+.h-center {
+  text-align: center;
+  margin: 30px 0px;
+}
+.h-center h1 {
+  padding-bottom: 30px;
+}
+.s-line {
+  height: 1px;
+  background: green;
+  width: 6%;
+  margin: auto;
+}
+
+.section_six {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  gap: 10px;
+  margin-bottom: 50px;
+}
+.six-img {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  align-items: center;
+}
+
+.six-img img {
+  width: 333px;
+}

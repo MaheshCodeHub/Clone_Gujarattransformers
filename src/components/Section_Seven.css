@@ -1,0 +1,27 @@
+.section_seven {
+  margin-bottom: 34px;
+}
+.h-center {
+  text-align: center;
+  margin: 30px 0px;
+}
+.h-center h1 {
+  padding-bottom: 30px;
+}
+.btn {
+  display: flex;
+  justify-content: center;
+}
+.s-line {
+  height: 1px;
+  background: green;
+  width: 6%;
+  margin: auto;
+}
+
+.seven-img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+}

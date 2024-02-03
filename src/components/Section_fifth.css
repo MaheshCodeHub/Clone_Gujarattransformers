@@ -1,0 +1,44 @@
+.h-center {
+  text-align: center;
+  margin-bottom: 30px;
+}
+.h-center h1 {
+  padding-bottom: 30px;
+}
+.s-line {
+  height: 1px;
+  background: green;
+  width: 6%;
+  margin: auto;
+}
+.fifth-box1 {
+  padding: 7px 10px 9px;
+  background-color: #c3c1c1;
+  width: 32%;
+  display: flex;
+  justify-content: space-evenly;
+  line-height: 3rem;
+  margin-bottom: 10px;
+}
+
+.box-img img {
+  width: 200px;
+}
+.fifth-img {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+}
+
+.item {
+  padding: 6px;
+}
+.item:hover {
+  text-decoration: underline red;
+  cursor: pointer;
+}
+.item h4 {
+  font-size: 3rem;
+  color: #e22222;
+  font-weight: 300;
+}
